@@ -1,0 +1,965 @@
+----------------------------------------
+The result of the Students are : 
+----------------------------------------
+
+-----------
+Student 1 : 
+-----------
+English - 71 , Grade - BB
+Maths - 47 , Grade - CD
+Science - 89 , Grade - AB
+Total = 207
+Avg : 69.0
+
+-----------
+Student 2 : 
+-----------
+English - 34 , Grade - FF
+Maths - 26 , Grade - FF
+Science - 30 , Grade - FF
+Total = 90
+Avg : 30.0
+
+-----------
+Student 3 : 
+-----------
+English - 91 , Grade - AA
+Maths - 92 , Grade - AA
+Science - 35 , Grade - FF
+Total = 218
+Avg : 72.667
+
+-----------
+Student 4 : 
+-----------
+English - 80 , Grade - AB
+Maths - 91 , Grade - AA
+Science - 92 , Grade - AA
+Total = 263
+Avg : 87.667
+
+-----------
+Student 5 : 
+-----------
+English - 40 , Grade - CD
+Maths - 31 , Grade - FF
+Science - 78 , Grade - BB
+Total = 149
+Avg : 49.667
+
+-----------
+Student 6 : 
+-----------
+English - 94 , Grade - AA
+Maths - 53 , Grade - CC
+Science - 89 , Grade - AB
+Total = 236
+Avg : 78.667
+
+-----------
+Student 7 : 
+-----------
+English - 94 , Grade - AA
+Maths - 52 , Grade - CC
+Science - 99 , Grade - AA
+Total = 245
+Avg : 81.667
+
+-----------
+Student 8 : 
+-----------
+English - 43 , Grade - CD
+Maths - 67 , Grade - BC
+Science - 22 , Grade - FF
+Total = 132
+Avg : 44.0
+
+-----------
+Student 9 : 
+-----------
+English - 22 , Grade - FF
+Maths - 42 , Grade - CD
+Science - 39 , Grade - FF
+Total = 103
+Avg : 34.333
+
+-----------
+Student 10 : 
+-----------
+English - 41 , Grade - CD
+Maths - 81 , Grade - AB
+Science - 78 , Grade - BB
+Total = 200
+Avg : 66.667
+
+-----------
+Student 11 : 
+-----------
+English - 72 , Grade - BB
+Maths - 56 , Grade - CC
+Science - 55 , Grade - CC
+Total = 183
+Avg : 61.0
+
+-----------
+Student 12 : 
+-----------
+English - 21 , Grade - FF
+Maths - 63 , Grade - BC
+Science - 38 , Grade - FF
+Total = 122
+Avg : 40.667
+
+-----------
+Student 13 : 
+-----------
+English - 49 , Grade - CD
+Maths - 54 , Grade - CC
+Science - 86 , Grade - AB
+Total = 189
+Avg : 63.0
+
+-----------
+Student 14 : 
+-----------
+English - 57 , Grade - CC
+Maths - 84 , Grade - AB
+Science - 38 , Grade - FF
+Total = 179
+Avg : 59.667
+
+-----------
+Student 15 : 
+-----------
+English - 21 , Grade - FF
+Maths - 66 , Grade - BC
+Science - 39 , Grade - FF
+Total = 126
+Avg : 42.0
+
+-----------
+Student 16 : 
+-----------
+English - 83 , Grade - AB
+Maths - 97 , Grade - AA
+Science - 90 , Grade - AA
+Total = 270
+Avg : 90.0
+
+-----------
+Student 17 : 
+-----------
+English - 79 , Grade - BB
+Maths - 22 , Grade - FF
+Science - 71 , Grade - BB
+Total = 172
+Avg : 57.333
+
+-----------
+Student 18 : 
+-----------
+English - 40 , Grade - CD
+Maths - 20 , Grade - FF
+Science - 52 , Grade - CC
+Total = 112
+Avg : 37.333
+
+-----------
+Student 19 : 
+-----------
+English - 52 , Grade - CC
+Maths - 24 , Grade - FF
+Science - 59 , Grade - CC
+Total = 135
+Avg : 45.0
+
+-----------
+Student 20 : 
+-----------
+English - 95 , Grade - AA
+Maths - 33 , Grade - FF
+Science - 58 , Grade - CC
+Total = 186
+Avg : 62.0
+
+-----------
+Student 21 : 
+-----------
+English - 77 , Grade - BB
+Maths - 46 , Grade - CD
+Science - 20 , Grade - FF
+Total = 143
+Avg : 47.667
+
+-----------
+Student 22 : 
+-----------
+English - 41 , Grade - CD
+Maths - 28 , Grade - FF
+Science - 30 , Grade - FF
+Total = 99
+Avg : 33.0
+
+-----------
+Student 23 : 
+-----------
+English - 68 , Grade - BC
+Maths - 98 , Grade - AA
+Science - 76 , Grade - BB
+Total = 242
+Avg : 80.667
+
+-----------
+Student 24 : 
+-----------
+English - 78 , Grade - BB
+Maths - 34 , Grade - FF
+Science - 69 , Grade - BC
+Total = 181
+Avg : 60.333
+
+-----------
+Student 25 : 
+-----------
+English - 61 , Grade - BC
+Maths - 61 , Grade - BC
+Science - 42 , Grade - CD
+Total = 164
+Avg : 54.667
+
+-----------
+Student 26 : 
+-----------
+English - 79 , Grade - BB
+Maths - 96 , Grade - AA
+Science - 50 , Grade - CC
+Total = 225
+Avg : 75.0
+
+-----------
+Student 27 : 
+-----------
+English - 99 , Grade - AA
+Maths - 70 , Grade - BB
+Science - 61 , Grade - BC
+Total = 230
+Avg : 76.667
+
+-----------
+Student 28 : 
+-----------
+English - 34 , Grade - FF
+Maths - 82 , Grade - AB
+Science - 26 , Grade - FF
+Total = 142
+Avg : 47.333
+
+-----------
+Student 29 : 
+-----------
+English - 81 , Grade - AB
+Maths - 71 , Grade - BB
+Science - 35 , Grade - FF
+Total = 187
+Avg : 62.333
+
+-----------
+Student 30 : 
+-----------
+English - 81 , Grade - AB
+Maths - 23 , Grade - FF
+Science - 79 , Grade - BB
+Total = 183
+Avg : 61.0
+
+-----------
+Student 31 : 
+-----------
+English - 66 , Grade - BC
+Maths - 42 , Grade - CD
+Science - 21 , Grade - FF
+Total = 129
+Avg : 43.0
+
+-----------
+Student 32 : 
+-----------
+English - 81 , Grade - AB
+Maths - 34 , Grade - FF
+Science - 20 , Grade - FF
+Total = 135
+Avg : 45.0
+
+-----------
+Student 33 : 
+-----------
+English - 70 , Grade - BB
+Maths - 62 , Grade - BC
+Science - 67 , Grade - BC
+Total = 199
+Avg : 66.333
+
+-----------
+Student 34 : 
+-----------
+English - 74 , Grade - BB
+Maths - 48 , Grade - CD
+Science - 31 , Grade - FF
+Total = 153
+Avg : 51.0
+
+-----------
+Student 35 : 
+-----------
+English - 83 , Grade - AB
+Maths - 55 , Grade - CC
+Science - 88 , Grade - AB
+Total = 226
+Avg : 75.333
+
+-----------
+Student 36 : 
+-----------
+English - 22 , Grade - FF
+Maths - 32 , Grade - FF
+Science - 56 , Grade - CC
+Total = 110
+Avg : 36.667
+
+-----------
+Student 37 : 
+-----------
+English - 70 , Grade - BB
+Maths - 51 , Grade - CC
+Science - 51 , Grade - CC
+Total = 172
+Avg : 57.333
+
+-----------
+Student 38 : 
+-----------
+English - 26 , Grade - FF
+Maths - 90 , Grade - AA
+Science - 28 , Grade - FF
+Total = 144
+Avg : 48.0
+
+-----------
+Student 39 : 
+-----------
+English - 40 , Grade - CD
+Maths - 78 , Grade - BB
+Science - 38 , Grade - FF
+Total = 156
+Avg : 52.0
+
+-----------
+Student 40 : 
+-----------
+English - 92 , Grade - AA
+Maths - 47 , Grade - CD
+Science - 67 , Grade - BC
+Total = 206
+Avg : 68.667
+
+-----------
+Student 41 : 
+-----------
+English - 58 , Grade - CC
+Maths - 85 , Grade - AB
+Science - 99 , Grade - AA
+Total = 242
+Avg : 80.667
+
+-----------
+Student 42 : 
+-----------
+English - 37 , Grade - FF
+Maths - 61 , Grade - BC
+Science - 22 , Grade - FF
+Total = 120
+Avg : 40.0
+
+-----------
+Student 43 : 
+-----------
+English - 23 , Grade - FF
+Maths - 64 , Grade - BC
+Science - 39 , Grade - FF
+Total = 126
+Avg : 42.0
+
+-----------
+Student 44 : 
+-----------
+English - 79 , Grade - BB
+Maths - 81 , Grade - AB
+Science - 43 , Grade - CD
+Total = 203
+Avg : 67.667
+
+-----------
+Student 45 : 
+-----------
+English - 33 , Grade - FF
+Maths - 76 , Grade - BB
+Science - 73 , Grade - BB
+Total = 182
+Avg : 60.667
+
+-----------
+Student 46 : 
+-----------
+English - 28 , Grade - FF
+Maths - 25 , Grade - FF
+Science - 52 , Grade - CC
+Total = 105
+Avg : 35.0
+
+-----------
+Student 47 : 
+-----------
+English - 72 , Grade - BB
+Maths - 47 , Grade - CD
+Science - 43 , Grade - CD
+Total = 162
+Avg : 54.0
+
+-----------
+Student 48 : 
+-----------
+English - 21 , Grade - FF
+Maths - 47 , Grade - CD
+Science - 94 , Grade - AA
+Total = 162
+Avg : 54.0
+
+-----------
+Student 49 : 
+-----------
+English - 79 , Grade - BB
+Maths - 63 , Grade - BC
+Science - 91 , Grade - AA
+Total = 233
+Avg : 77.667
+
+-----------
+Student 50 : 
+-----------
+English - 90 , Grade - AA
+Maths - 49 , Grade - CD
+Science - 55 , Grade - CC
+Total = 194
+Avg : 64.667
+
+-----------
+Student 51 : 
+-----------
+English - 63 , Grade - BC
+Maths - 81 , Grade - AB
+Science - 57 , Grade - CC
+Total = 201
+Avg : 67.0
+
+-----------
+Student 52 : 
+-----------
+English - 27 , Grade - FF
+Maths - 94 , Grade - AA
+Science - 44 , Grade - CD
+Total = 165
+Avg : 55.0
+
+-----------
+Student 53 : 
+-----------
+English - 66 , Grade - BC
+Maths - 81 , Grade - AB
+Science - 37 , Grade - FF
+Total = 184
+Avg : 61.333
+
+-----------
+Student 54 : 
+-----------
+English - 54 , Grade - CC
+Maths - 20 , Grade - FF
+Science - 85 , Grade - AB
+Total = 159
+Avg : 53.0
+
+-----------
+Student 55 : 
+-----------
+English - 97 , Grade - AA
+Maths - 46 , Grade - CD
+Science - 73 , Grade - BB
+Total = 216
+Avg : 72.0
+
+-----------
+Student 56 : 
+-----------
+English - 100 , Grade - AA
+Maths - 81 , Grade - AB
+Science - 54 , Grade - CC
+Total = 235
+Avg : 78.333
+
+-----------
+Student 57 : 
+-----------
+English - 55 , Grade - CC
+Maths - 96 , Grade - AA
+Science - 99 , Grade - AA
+Total = 250
+Avg : 83.333
+
+-----------
+Student 58 : 
+-----------
+English - 69 , Grade - BC
+Maths - 22 , Grade - FF
+Science - 80 , Grade - AB
+Total = 171
+Avg : 57.0
+
+-----------
+Student 59 : 
+-----------
+English - 23 , Grade - FF
+Maths - 89 , Grade - AB
+Science - 60 , Grade - BC
+Total = 172
+Avg : 57.333
+
+-----------
+Student 60 : 
+-----------
+English - 21 , Grade - FF
+Maths - 91 , Grade - AA
+Science - 52 , Grade - CC
+Total = 164
+Avg : 54.667
+
+-----------
+Student 61 : 
+-----------
+English - 25 , Grade - FF
+Maths - 46 , Grade - CD
+Science - 87 , Grade - AB
+Total = 158
+Avg : 52.667
+
+-----------
+Student 62 : 
+-----------
+English - 73 , Grade - BB
+Maths - 28 , Grade - FF
+Science - 52 , Grade - CC
+Total = 153
+Avg : 51.0
+
+-----------
+Student 63 : 
+-----------
+English - 23 , Grade - FF
+Maths - 81 , Grade - AB
+Science - 33 , Grade - FF
+Total = 137
+Avg : 45.667
+
+-----------
+Student 64 : 
+-----------
+English - 73 , Grade - BB
+Maths - 56 , Grade - CC
+Science - 40 , Grade - CD
+Total = 169
+Avg : 56.333
+
+-----------
+Student 65 : 
+-----------
+English - 82 , Grade - AB
+Maths - 70 , Grade - BB
+Science - 67 , Grade - BC
+Total = 219
+Avg : 73.0
+
+-----------
+Student 66 : 
+-----------
+English - 37 , Grade - FF
+Maths - 63 , Grade - BC
+Science - 39 , Grade - FF
+Total = 139
+Avg : 46.333
+
+-----------
+Student 67 : 
+-----------
+English - 63 , Grade - BC
+Maths - 43 , Grade - CD
+Science - 27 , Grade - FF
+Total = 133
+Avg : 44.333
+
+-----------
+Student 68 : 
+-----------
+English - 53 , Grade - CC
+Maths - 98 , Grade - AA
+Science - 26 , Grade - FF
+Total = 177
+Avg : 59.0
+
+-----------
+Student 69 : 
+-----------
+English - 93 , Grade - AA
+Maths - 78 , Grade - BB
+Science - 86 , Grade - AB
+Total = 257
+Avg : 85.667
+
+-----------
+Student 70 : 
+-----------
+English - 81 , Grade - AB
+Maths - 51 , Grade - CC
+Science - 36 , Grade - FF
+Total = 168
+Avg : 56.0
+
+-----------
+Student 71 : 
+-----------
+English - 33 , Grade - FF
+Maths - 71 , Grade - BB
+Science - 52 , Grade - CC
+Total = 156
+Avg : 52.0
+
+-----------
+Student 72 : 
+-----------
+English - 67 , Grade - BC
+Maths - 81 , Grade - AB
+Science - 67 , Grade - BC
+Total = 215
+Avg : 71.667
+
+-----------
+Student 73 : 
+-----------
+English - 34 , Grade - FF
+Maths - 77 , Grade - BB
+Science - 95 , Grade - AA
+Total = 206
+Avg : 68.667
+
+-----------
+Student 74 : 
+-----------
+English - 91 , Grade - AA
+Maths - 71 , Grade - BB
+Science - 78 , Grade - BB
+Total = 240
+Avg : 80.0
+
+-----------
+Student 75 : 
+-----------
+English - 97 , Grade - AA
+Maths - 31 , Grade - FF
+Science - 41 , Grade - CD
+Total = 169
+Avg : 56.333
+
+-----------
+Student 76 : 
+-----------
+English - 81 , Grade - AB
+Maths - 58 , Grade - CC
+Science - 49 , Grade - CD
+Total = 188
+Avg : 62.667
+
+-----------
+Student 77 : 
+-----------
+English - 59 , Grade - CC
+Maths - 21 , Grade - FF
+Science - 57 , Grade - CC
+Total = 137
+Avg : 45.667
+
+-----------
+Student 78 : 
+-----------
+English - 99 , Grade - AA
+Maths - 22 , Grade - FF
+Science - 70 , Grade - BB
+Total = 191
+Avg : 63.667
+
+-----------
+Student 79 : 
+-----------
+English - 72 , Grade - BB
+Maths - 75 , Grade - BB
+Science - 73 , Grade - BB
+Total = 220
+Avg : 73.333
+
+-----------
+Student 80 : 
+-----------
+English - 43 , Grade - CD
+Maths - 100 , Grade - AA
+Science - 27 , Grade - FF
+Total = 170
+Avg : 56.667
+
+-----------
+Student 81 : 
+-----------
+English - 45 , Grade - CD
+Maths - 78 , Grade - BB
+Science - 46 , Grade - CD
+Total = 169
+Avg : 56.333
+
+-----------
+Student 82 : 
+-----------
+English - 79 , Grade - BB
+Maths - 21 , Grade - FF
+Science - 46 , Grade - CD
+Total = 146
+Avg : 48.667
+
+-----------
+Student 83 : 
+-----------
+English - 60 , Grade - BC
+Maths - 21 , Grade - FF
+Science - 40 , Grade - CD
+Total = 121
+Avg : 40.333
+
+-----------
+Student 84 : 
+-----------
+English - 48 , Grade - CD
+Maths - 73 , Grade - BB
+Science - 49 , Grade - CD
+Total = 170
+Avg : 56.667
+
+-----------
+Student 85 : 
+-----------
+English - 34 , Grade - FF
+Maths - 20 , Grade - FF
+Science - 47 , Grade - CD
+Total = 101
+Avg : 33.667
+
+-----------
+Student 86 : 
+-----------
+English - 64 , Grade - BC
+Maths - 38 , Grade - FF
+Science - 83 , Grade - AB
+Total = 185
+Avg : 61.667
+
+-----------
+Student 87 : 
+-----------
+English - 84 , Grade - AB
+Maths - 21 , Grade - FF
+Science - 88 , Grade - AB
+Total = 193
+Avg : 64.333
+
+-----------
+Student 88 : 
+-----------
+English - 90 , Grade - AA
+Maths - 72 , Grade - BB
+Science - 80 , Grade - AB
+Total = 242
+Avg : 80.667
+
+-----------
+Student 89 : 
+-----------
+English - 28 , Grade - FF
+Maths - 63 , Grade - BC
+Science - 67 , Grade - BC
+Total = 158
+Avg : 52.667
+
+-----------
+Student 90 : 
+-----------
+English - 20 , Grade - FF
+Maths - 51 , Grade - CC
+Science - 38 , Grade - FF
+Total = 109
+Avg : 36.333
+
+-----------
+Student 91 : 
+-----------
+English - 27 , Grade - FF
+Maths - 89 , Grade - AB
+Science - 23 , Grade - FF
+Total = 139
+Avg : 46.333
+
+-----------
+Student 92 : 
+-----------
+English - 82 , Grade - AB
+Maths - 51 , Grade - CC
+Science - 54 , Grade - CC
+Total = 187
+Avg : 62.333
+
+-----------
+Student 93 : 
+-----------
+English - 30 , Grade - FF
+Maths - 87 , Grade - AB
+Science - 83 , Grade - AB
+Total = 200
+Avg : 66.667
+
+-----------
+Student 94 : 
+-----------
+English - 100 , Grade - AA
+Maths - 74 , Grade - BB
+Science - 68 , Grade - BC
+Total = 242
+Avg : 80.667
+
+-----------
+Student 95 : 
+-----------
+English - 27 , Grade - FF
+Maths - 94 , Grade - AA
+Science - 36 , Grade - FF
+Total = 157
+Avg : 52.333
+
+-----------
+Student 96 : 
+-----------
+English - 54 , Grade - CC
+Maths - 75 , Grade - BB
+Science - 63 , Grade - BC
+Total = 192
+Avg : 64.0
+
+-----------
+Student 97 : 
+-----------
+English - 54 , Grade - CC
+Maths - 36 , Grade - FF
+Science - 49 , Grade - CD
+Total = 139
+Avg : 46.333
+
+-----------
+Student 98 : 
+-----------
+English - 52 , Grade - CC
+Maths - 57 , Grade - CC
+Science - 65 , Grade - BC
+Total = 174
+Avg : 58.0
+
+-----------
+Student 99 : 
+-----------
+English - 24 , Grade - FF
+Maths - 43 , Grade - CD
+Science - 25 , Grade - FF
+Total = 92
+Avg : 30.667
+
+-----------
+Student 100 : 
+-----------
+English - 60 , Grade - BC
+Maths - 88 , Grade - AB
+Science - 56 , Grade - CC
+Total = 204
+Avg : 68.0
+
+----------------------------------------
+Top Performers
+----------------------------------------
+
+Rank 1 : Student 16 (Total Marks - 270)
+
+Rank 2 : Student 4 (Total Marks - 263)
+
+Rank 3 : Student 69 (Total Marks - 257)
+
+Rank 4 : Student 57 (Total Marks - 250)
+
+Rank 5 : Student 7 (Total Marks - 245)
+
+----------------------------------------
+Top Performers in respective Subjects
+----------------------------------------
+
+Rank 1 in English : Student 56 (Marks - 100)
+
+Rank 1 in Maths : Student 80 (Marks - 100)
+
+Rank 1 in Science : Student 7 (Marks - 99)
+
+----------------------------------------
+Subject Wise Stats
+----------------------------------------
+--------------------
+English
+--------------------
+Avg marks in English : 59.38
+Median marks in English : 62.00
+Students failed in English : 27
+
+--------------------
+Maths
+--------------------
+Avg marks in Maths : 59.21
+Median marks in Maths : 61.00
+Students failed in Maths : 24
+
+--------------------
+Science
+--------------------
+Avg marks in Science : 56.52
+Median marks in Science : 54.00
+Students failed in Science : 29
+
+----------------------------------------
+Class Result Summary
+----------------------------------------
+
+Avg marks of the Class : 175.11
+
+Students scored avg marks >= 75 : 16
+
+Students passed in only one subject : 19
+
+Students passed in two subjects : 41
+
+Students passed in all the three subjects : 40
